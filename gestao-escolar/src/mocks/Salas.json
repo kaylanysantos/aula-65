@@ -1,0 +1,32 @@
+[{
+    "id": 1,
+    "name": "Programação Fullstack",
+    "capacity": 16,
+    "students": 3,
+    "day": "Quarta-feira",
+    "hour": "8:00"
+},
+{
+    "id": 2,
+    "name": "Contabilidade",
+    "capacity": 16,
+    "students": 5,
+    "day": "Segunda-feira",
+    "hour": "8:00"
+},
+{
+    "id": 3,
+    "name": "Ingles",
+    "capacity": 10,
+    "students": 3,
+    "day": "Quinta-feira",
+    "hour": "8:00"
+},
+{
+    "id": 4,
+    "name": "Design",
+    "capacity": 18,
+    "students": 7,
+    "day": "Sexta-feira",
+    "hour": "8:00"
+}]
